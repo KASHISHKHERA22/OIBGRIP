@@ -10,7 +10,7 @@
 
 nav {
     /* background-color: #42392b; */
-    background: url('IMAGES/gif2.gif');
+    background: url('gif2.gif');
     background-size: cover;
     display: flex;
     position: sticky;
@@ -48,7 +48,7 @@ nav ul li a:focus {
     /* background-color: #434242; */
 
     background: transparent;
-    background: url('IMAGES/gif2.gif');
+    background: url('gif2.gif');
     background-size: cover;
     flex-wrap: wrap;
 }
@@ -135,7 +135,7 @@ nav ul li a:focus {
 #skill {
 
     /* background-color: #2a262b; */
-    background: url('IMAGES/gif2.gif');
+    background: url('gif2.gif');
     background-size: cover;
     height: 20rem;
 }
@@ -174,7 +174,7 @@ nav ul li a:focus {
     font-size: 65px;
     color: #aba697;
     /* background-color: #221f21; */
-    background: url('IMAGES/gif2.gif');
+    background: url('gif2.gif');
     background-size: cover;
 
 }
@@ -196,13 +196,13 @@ nav ul li a:focus {
 
 .bind {
     /* background-color: #2a2729; */
-    background: url('IMAGES/gif2.gif');
+    background: url('gif2.gif');
     background-size: cover;
 }
 
 .cards {
     /* background-color: #6e6a58; */
-    background-image: url('IMAGES/bg3.gif');
+    background-image: url('bg3.gif');
     background-size: cover;
     width: 15rem;
     margin: 10px;
@@ -263,6 +263,6 @@ nav ul li a:focus {
     display: flex;
     justify-content: center;
     /* background-color: #472D2D; */
-    background: url('IMAGES/gif2.gif');
+    background: url('gif2.gif');
     background-size: cover;
 }
