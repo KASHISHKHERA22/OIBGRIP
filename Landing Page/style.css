@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    background-image: url('image.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
+
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+
+.left p {
+
+    font-size: 56px;
+    color: rgba(188, 9, 9, 0.953);
+    font-weight: bolder;
+}
+
+li {
+    display: inline-block;
+    margin-right: 2rem;
+    margin-top: 1rem;
+}
+
+.right ul li a {
+    text-decoration: none;
+    color: crimson;
+}
+
+.right ul li a:hover {
+    text-decoration: underline;
+
+}
+
+.container {
+    margin-top: 3rem;
+}
+
+#cafe {
+    text-align: center;
+    font-size: 69px;
+    color: antiquewhite;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#book {
+    display: block;
+    text-align: center;
+    font-size: 69px;
+    color: bisque;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.button {
+    text-align: center;
+    font-size: large;
+}
+
+.btn {
+    background-color: crimson;
+    margin-top: 3rem;
+    size: 3rem;
+}
+
+.btn:hover {
+    transform: scale(2);
+    padding: 2px;
+    cursor: pointer;
+}
